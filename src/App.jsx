@@ -660,7 +660,7 @@ export default function Presentation() {
                     More Content Types
                   </h3>
                   <p className="text-gray-600 text-sm">
-                    Resumes and cover letters
+                    LinkedIn posts and cover letters
                   </p>
                 </div>
                 {/* <div className="bg-white border-2 border-blue-300 rounded-xl p-6 shadow-md">
